@@ -1,0 +1,4 @@
+- completer le fichiers style.css
+- Recuperer l'index.php
+- Decouper le fichier (header et footer )
+- Et commençez à travailler . 
